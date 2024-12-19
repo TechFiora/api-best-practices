@@ -1,0 +1,11 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the general instance folder
+instance/
+
+# Ignore the instance folder in the app directory
+app/instance/
+
+# Ignore the migration folder (usually for Flask, Django, etc.)
+app/migrations/
